@@ -1,2 +1,2 @@
 # Codebreaker
-A console-hosted codebreaker game built in Java.a
+A console-hosted codebreaker game built in Java.
